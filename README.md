@@ -17,7 +17,7 @@ How to use our program:
     name = str(input("what is your first name?"))
     lastName = str(input("what is your last name?"))
     print("Your full name is: " + name + " " + lastName)
-    ```
+```
     what is your first name? Leo
     what is your last name? Tuckey
     Your full name is: Leo Tuckey
