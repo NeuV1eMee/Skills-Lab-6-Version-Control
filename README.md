@@ -13,7 +13,7 @@ How to use our program:
 
     Example Usage: 
     
-    ```python
+```python
     name = str(input("what is your first name?"))
     lastName = str(input("what is your last name?"))
     print("Your full name is: " + name + " " + lastName)
