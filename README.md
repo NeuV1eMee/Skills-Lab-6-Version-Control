@@ -1,5 +1,5 @@
 # Skills-Lab-6-Version-Control
-Group members: Leo Tuckey, Joe, David Shi
+Group members: Leo Tuckey, Joe Wang, David Shi
 
 What Our Program Does:
 
